@@ -74,7 +74,7 @@ Me interesa colaborar en:
 
 - Programación  
 - Bases de datos  
-- Analítica ydashboards  
+- Analítica y dashboards  
 - Proyectos académicos y personales  
 
 ---
