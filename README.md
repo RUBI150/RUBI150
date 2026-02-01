@@ -1,16 +1,99 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RUBI150/RUBI150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Hi, I'm Rubi ✨  
+### Ingeniería de Sistemas · Tech · Data · Creatividad
 
-Here are some ideas to get you started:
+🌙 *Construyendo ideas, aprendiendo sin parar y creando soluciones con estilo*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+💻 **Software & Data Enthusiast**  
+📊 Analítica • Desarrollo • Innovación  
+🌱 Aprendizaje continuo  
+
+</div>
+
+---
+
+## 🌸 About me  
+
+Soy una **Ingeniera de Sistemas** apasionada por la tecnología.  
+Disfruto transformar ideas en soluciones reales, optimizar procesos y crear proyectos donde se mezclan:
+
+> **Lógica · Diseño · Tecnología · Impacto**
+
+Me motiva aprender cosas nuevas, experimentar con herramientas modernas  
+y dar siempre un paso más allá ✨
+
+---
+
+## 🧠 Tech Stack  
+
+<div align="center">
+
+### 🗄️ Backend & Bases de Datos  
+`C#` · `SQL Server` · `MySQL` · `PostgreSQL`  
+
+---
+
+### 🌐 Desarrollo Web  
+`HTML` · `CSS` · `JavaScript`· `React`  · `WordPress`  
+
+---
+
+### 📱 Desarrollo Móvil  
+`Android Studio` · `Flutter` · `Dart`  
+
+</div>
+
+---
+
+## 🌙 Currently  
+
+✨ Construyendo proyectos de **software y data**  
+✨ Explorando **Big Data, dashboards y analítica**  
+✨ Mejorando mis skills en **Flutter & Backend**  
+
+---
+
+## 🤍 Open to collaborate  
+
+Me interesa colaborar en:  
+- 🚀 Desarrollo de software  
+- 📱 Apps móviles o web  
+- 📊 Proyectos de datos y visualización  
+- 💡 Ideas creativas con impacto real  
+
+---
+
+## 💬 Ask me about  
+
+- Programación  
+- Bases de datos  
+- Analítica ydashboards  
+- Proyectos académicos y personales  
+
+---
+
+## 📫 Contact  
+
+🌐 **GitHub:** `@RUBI150`  
+💌 **Portfolio:** *coming soon…* 👀✨  
+
+---
+
+<div align="center">
+
+### ⚡ Fun fact  
+*Amo aprender, optimizar lo que ya existe  
+y nunca digo “ya está suficiente”* 💜  
+
+---
+
+✨ **Code · Learn · Improve · Repeat** ✨  
+
+</div>
